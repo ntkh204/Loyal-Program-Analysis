@@ -47,4 +47,4 @@ Below is a small database of payment transactions history data during Jan 2021-M
 - Merchant: merchant that users spend on
 
 **3. Report**
-Link: https://app.powerbi.com/groups/me/reports/fb301db7-082b-4ec1-a14f-d34532479695?ctid=07acb355-56bc-489b-b98c-8fea440460e8&pbi_source=linkShare
+Link: https://app.powerbi.com/view?r=eyJrIjoiMzc0YTFkMDktZDUwNi00YzJlLWFkZjMtMzIzYWQ2NDY2NjA1IiwidCI6Ijk0YjQzYWQzLTQ3MDgtNDA2MS04OGI4LTllMDFmNjNhNTJhZSIsImMiOjEwfQ%3D%3D
